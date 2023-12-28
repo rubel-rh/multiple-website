@@ -131,7 +131,11 @@ main{
     justify-content: space-between;
     padding: 5px 0 20px 0;
 }
-.privius-next-parent {
+.previus-page {
     display: flex;
     justify-content: space-between;
+}
+.previus-page a {
+  color: white;
+  text-decoration: none;
 }
